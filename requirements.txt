@@ -1,11 +1,6 @@
-django
-djangorestframework
-django-cors-headers
-joblib
-scikit-learn
-nltk
+Django==4.2.5
+djangorestframework==3.14.0
+joblib==1.4.2
 gunicorn
-dj-database-url
-psycopg2-binary
-whitenoise
-imbalanced-learn==0.12.3
+nltk==3.9.1
+scikit_learn==1.7.2
