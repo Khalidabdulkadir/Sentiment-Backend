@@ -6,3 +6,11 @@ nltk==3.9.1
 scikit_learn==1.7.2
 django-cors-headers
 imbalanced-learn
+gunicorn
+numpy
+pandas
+xgboost==2.0.3
+matplotlib
+seaborn
+wordcloud
+nltk
