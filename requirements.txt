@@ -4,3 +4,4 @@ django-cors-headers
 joblib
 scikit-learn
 nltk
+gunicorn
